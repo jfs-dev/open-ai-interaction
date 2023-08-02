@@ -20,7 +20,7 @@ Acesse a plataforma OpenAI em https://platform.openai.com/overview/ para gerar s
 </div>
 
 ## Referências
-https://openai.com//
+https://openai.com/
 
 https://platform.openai.com/overview/
 
